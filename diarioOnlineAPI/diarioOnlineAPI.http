@@ -1,0 +1,6 @@
+@diarioOnlineAPI_HostAddress = http://localhost:7090
+
+GET {{diarioOnlineAPI_HostAddress}}/DiaryEntries/
+Accept: application/json
+
+###

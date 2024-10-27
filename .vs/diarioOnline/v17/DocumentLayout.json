@@ -1,0 +1,857 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\diarioOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\layout\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\pages\\games.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\pages\\games.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\pages\\games.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\pages\\emotionsoptions.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\pages\\emotionsoptions.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\pages\\entries.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\pages\\entries.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\pages\\emotionsoptions.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\pages\\emotionsoptions.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\pages\\entries.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\pages\\entries.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\pages\\index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\models\\emotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\models\\emotions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\controllers\\diaryentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\controllers\\diaryentrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\models\\diaryentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\models\\diaryentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\diarioonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\diarioonline.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\wwwroot\\favicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\migrations\\20241009130204_adddiaryentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\migrations\\20241009130204_adddiaryentries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\migrations\\20241008175330_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\migrations\\20241008175330_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\migrations\\20241010172847_updatebdiwish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\migrations\\20241010172847_updatebdiwish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\migrations\\20241009130204_adddiaryentries.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\migrations\\20241009130204_adddiaryentries.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\migrations\\20241010172847_updatebdiwish.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\migrations\\20241010172847_updatebdiwish.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\migrations\\20241008175330_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\migrations\\20241008175330_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D42984B-A3D2-453F-A894-108D19CA38A6}|diarioOnline.Client\\diarioOnline.Client.csproj|d:\\diarioonline\\diarioonline.client\\diarioonline.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D42984B-A3D2-453F-A894-108D19CA38A6}|diarioOnline.Client\\diarioOnline.Client.csproj|solutionrelative:diarioonline.client\\diarioonline.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D42984B-A3D2-453F-A894-108D19CA38A6}|diarioOnline.Client\\diarioOnline.Client.csproj|d:\\diarioonline\\diarioonline.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D42984B-A3D2-453F-A894-108D19CA38A6}|diarioOnline.Client\\diarioOnline.Client.csproj|solutionrelative:diarioonline.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D42984B-A3D2-453F-A894-108D19CA38A6}|diarioOnline.Client\\diarioOnline.Client.csproj|d:\\diarioonline\\diarioonline.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D42984B-A3D2-453F-A894-108D19CA38A6}|diarioOnline.Client\\diarioOnline.Client.csproj|solutionrelative:diarioonline.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\diarioonlineapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\diarioonlineapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\diarioonlineapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\diarioonlineapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\aa2cee7d5165d479d559b892d36d3c4701f748649d9e12d23085eb7474b366ed\\EndpointRoutingApplicationBuilderExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VS\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\8d0d6412656a78cd95a7d5d99fd2c8d26600e02084053fa63ece049150d9521e\\ChangeToken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\8c2de71d2c78096beea85da835f4b86fe4420802bce2cec7de756f1af0493abf\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\b38c7bbc046e461a8a58c7e0eb00bea4828feec3606c51aaae6062bc28a1448e\\FileConfigurationProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\diarioonline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\diarioonline.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|d:\\diarioonline\\diarioonline\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA60121D-F941-43FA-9C9B-413C930544FD}|diarioOnline\\diarioOnline.csproj|solutionrelative:diarioonline\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|d:\\diarioonline\\diarioonlineapi\\diarioonlineapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{ED178118-B834-40A3-9D42-F54E63A2D886}|diarioOnlineAPI\\diarioOnlineAPI.csproj|solutionrelative:diarioonlineapi\\diarioonlineapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Layout\\MainLayout.razor.css",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Layout\\MainLayout.razor.css",
+              "RelativeToolTip": "diarioOnline\\Components\\Layout\\MainLayout.razor.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T20:11:36.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:19:22.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Layout\\NavMenu.razor.css",
+              "RelativeToolTip": "diarioOnline\\Components\\Layout\\NavMenu.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T20:04:05.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Games.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Games.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Pages\\Games.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Games.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\Pages\\Games.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T18:36:41.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Pages\\Index.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Index.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T22:43:49.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Games.razor.css",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Games.razor.css",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Pages\\Games.razor.css",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Games.razor.css",
+              "RelativeToolTip": "diarioOnline\\Components\\Pages\\Games.razor.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T19:08:15.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmotionsOptions.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\EmotionsOptions.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Pages\\EmotionsOptions.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\EmotionsOptions.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\Pages\\EmotionsOptions.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:05:45.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entries.razor.css",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Entries.razor.css",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Pages\\Entries.razor.css",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Entries.razor.css",
+              "RelativeToolTip": "diarioOnline\\Components\\Pages\\Entries.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T23:48:01.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmotionsOptions.razor.css",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\EmotionsOptions.razor.css",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Pages\\EmotionsOptions.razor.css",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\EmotionsOptions.razor.css",
+              "RelativeToolTip": "diarioOnline\\Components\\Pages\\EmotionsOptions.razor.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T21:36:38.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:10:01.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entries.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Entries.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Pages\\Entries.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Entries.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\Pages\\Entries.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:06:03.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.razor.css",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Index.razor.css",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Pages\\Index.razor.css",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Index.razor.css",
+              "RelativeToolTip": "diarioOnline\\Components\\Pages\\Index.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-17T18:29:50.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T22:52:23.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\_Imports.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\_Imports.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:21:26.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Emotions.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Models\\Emotions.cs",
+              "RelativeDocumentMoniker": "diarioOnline\\Models\\Emotions.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Models\\Emotions.cs",
+              "RelativeToolTip": "diarioOnline\\Models\\Emotions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T20:22:39.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "diarioOnline\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "diarioOnline\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-06T12:28:37.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "diarioOnline\\wwwroot\\app.css",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\wwwroot\\app.css",
+              "RelativeToolTip": "diarioOnline\\wwwroot\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-13T20:16:05.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\App.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\App.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\App.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:32:35.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "diarioOnline\\Components\\Routes.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Components\\Routes.razor",
+              "RelativeToolTip": "diarioOnline\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T16:27:29.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\appsettings.json",
+              "RelativeDocumentMoniker": "diarioOnline\\appsettings.json",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\appsettings.json",
+              "RelativeToolTip": "diarioOnline\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T17:39:36.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Program.cs",
+              "RelativeDocumentMoniker": "diarioOnline\\Program.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Program.cs",
+              "RelativeToolTip": "diarioOnline\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:22:40.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DiaryEntryController.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Controllers\\DiaryEntryController.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Controllers\\DiaryEntryController.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Controllers\\DiaryEntryController.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Controllers\\DiaryEntryController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:52:27.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DiaryEntries.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Models\\DiaryEntries.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Models\\DiaryEntries.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Models\\DiaryEntries.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Models\\DiaryEntries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:25:32.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "diarioOnline.csproj",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\diarioOnline.csproj",
+              "RelativeDocumentMoniker": "diarioOnline\\diarioOnline.csproj",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\diarioOnline.csproj",
+              "RelativeToolTip": "diarioOnline\\diarioOnline.csproj",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T22:58:17.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "favicon.png",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\wwwroot\\favicon.png",
+              "RelativeDocumentMoniker": "diarioOnline\\wwwroot\\favicon.png",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\wwwroot\\favicon.png",
+              "RelativeToolTip": "diarioOnline\\wwwroot\\favicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-13T20:16:25.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:27:09.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20241009130204_AddDiaryEntries.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241009130204_AddDiaryEntries.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Migrations\\20241009130204_AddDiaryEntries.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241009130204_AddDiaryEntries.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Migrations\\20241009130204_AddDiaryEntries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:05:41.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20241008175330_InitialCreate.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241008175330_InitialCreate.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Migrations\\20241008175330_InitialCreate.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241008175330_InitialCreate.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Migrations\\20241008175330_InitialCreate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T19:10:47.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20241010172847_UpdateBDIWish.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241010172847_UpdateBDIWish.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Migrations\\20241010172847_UpdateBDIWish.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241010172847_UpdateBDIWish.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Migrations\\20241010172847_UpdateBDIWish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:05:49.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:06:00.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241009130204_AddDiaryEntries.Designer.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241009130204_AddDiaryEntries.Designer.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Migrations\\20241009130204_AddDiaryEntries.Designer.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241009130204_AddDiaryEntries.Designer.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Migrations\\20241009130204_AddDiaryEntries.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:06:54.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241010172847_UpdateBDIWish.Designer.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241010172847_UpdateBDIWish.Designer.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Migrations\\20241010172847_UpdateBDIWish.Designer.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241010172847_UpdateBDIWish.Designer.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Migrations\\20241010172847_UpdateBDIWish.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:06:55.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241008175330_InitialCreate.Designer.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241008175330_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Migrations\\20241008175330_InitialCreate.Designer.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Migrations\\20241008175330_InitialCreate.Designer.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Migrations\\20241008175330_InitialCreate.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:06:31.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "diarioOnline\\appsettings.Development.json",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\appsettings.Development.json",
+              "RelativeToolTip": "diarioOnline\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-10T14:08:20.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "diarioOnline.Client\\_Imports.razor",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline.Client\\_Imports.razor",
+              "RelativeToolTip": "diarioOnline.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T23:31:55.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline.Client\\Program.cs",
+              "RelativeDocumentMoniker": "diarioOnline.Client\\Program.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline.Client\\Program.cs",
+              "RelativeToolTip": "diarioOnline.Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T17:53:22.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "diarioOnline.Client.csproj",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline.Client\\diarioOnline.Client.csproj",
+              "RelativeDocumentMoniker": "diarioOnline.Client\\diarioOnline.Client.csproj",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline.Client\\diarioOnline.Client.csproj",
+              "RelativeToolTip": "diarioOnline.Client\\diarioOnline.Client.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T14:22:19.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Program.cs",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Program.cs",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Program.cs",
+              "RelativeToolTip": "diarioOnlineAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T16:31:36.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "diarioOnlineAPI.csproj",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\diarioOnlineAPI.csproj",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\diarioOnlineAPI.csproj",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\diarioOnlineAPI.csproj",
+              "RelativeToolTip": "diarioOnlineAPI\\diarioOnlineAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T16:24:17.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.FrameworkReferenceResolution.targets",
+              "ViewState": "AgIAAN8BAAAAAAAAAAApwOoBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-09T14:22:46.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "diarioOnlineAPI.http",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\diarioOnlineAPI.http",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\diarioOnlineAPI.http",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\diarioOnlineAPI.http",
+              "RelativeToolTip": "diarioOnlineAPI\\diarioOnlineAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-08T17:20:49.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EndpointRoutingApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\aa2cee7d5165d479d559b892d36d3c4701f748649d9e12d23085eb7474b366ed\\EndpointRoutingApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\aa2cee7d5165d479d559b892d36d3c4701f748649d9e12d23085eb7474b366ed\\EndpointRoutingApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEEAAACGAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:59:53.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "diarioOnlineAPI",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\diarioOnlineAPI.csproj",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\diarioOnlineAPI.csproj",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\diarioOnlineAPI.csproj",
+              "RelativeToolTip": "diarioOnlineAPI\\diarioOnlineAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-08T18:20:55.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\8c2de71d2c78096beea85da835f4b86fe4420802bce2cec7de756f1af0493abf\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\8c2de71d2c78096beea85da835f4b86fe4420802bce2cec7de756f1af0493abf\\ServiceProvider.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAUwGYAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:03:42.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ChangeToken.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\8d0d6412656a78cd95a7d5d99fd2c8d26600e02084053fa63ece049150d9521e\\ChangeToken.cs",
+              "ToolTip": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\8d0d6412656a78cd95a7d5d99fd2c8d26600e02084053fa63ece049150d9521e\\ChangeToken.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAArwGYAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:27:06.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\VS\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\VS\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\VS\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\VS\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAJETAAAAAAAAAAArwKkTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-10T15:50:38.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "diarioOnlineAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T17:22:54.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "diarioOnline\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\Properties\\launchSettings.json",
+              "RelativeToolTip": "diarioOnline\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T16:56:49.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ServiceCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs",
+              "ToolTip": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\fb2807fc5f0036b185c132a80d35c7e7fbc867752ff70e622cd36f6de49b0d90\\ServiceCollection.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAmwHsAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:02:31.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FileConfigurationProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\b38c7bbc046e461a8a58c7e0eb00bea4828feec3606c51aaae6062bc28a1448e\\FileConfigurationProvider.cs",
+              "ToolTip": "C:\\Users\\Fatima\\AppData\\Local\\Temp\\.vsdbgsrc\\b38c7bbc046e461a8a58c7e0eb00bea4828feec3606c51aaae6062bc28a1448e\\FileConfigurationProvider.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwEUAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:02:03.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAawIwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-09T15:07:04.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "diarioOnline",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnline\\diarioOnline.csproj",
+              "RelativeDocumentMoniker": "diarioOnline\\diarioOnline.csproj",
+              "ToolTip": "D:\\diarioOnline\\diarioOnline\\diarioOnline.csproj",
+              "RelativeToolTip": "diarioOnline\\diarioOnline.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T15:05:31.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\diarioOnline\\diarioOnlineAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "diarioOnlineAPI\\appsettings.json",
+              "ToolTip": "D:\\diarioOnline\\diarioOnlineAPI\\appsettings.json",
+              "RelativeToolTip": "diarioOnlineAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T16:38:35.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

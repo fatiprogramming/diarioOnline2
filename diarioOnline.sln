@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diarioOnline", "diarioOnline\diarioOnline.csproj", "{FA60121D-F941-43FA-9C9B-413C930544FD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{ED178118-B834-40A3-9D42-F54E63A2D886} = {ED178118-B834-40A3-9D42-F54E63A2D886}
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diarioOnline.Client", "diarioOnline.Client\diarioOnline.Client.csproj", "{6D42984B-A3D2-453F-A894-108D19CA38A6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diarioOnlineAPI", "diarioOnlineAPI\diarioOnlineAPI.csproj", "{ED178118-B834-40A3-9D42-F54E63A2D886}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA60121D-F941-43FA-9C9B-413C930544FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA60121D-F941-43FA-9C9B-413C930544FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA60121D-F941-43FA-9C9B-413C930544FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA60121D-F941-43FA-9C9B-413C930544FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D42984B-A3D2-453F-A894-108D19CA38A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D42984B-A3D2-453F-A894-108D19CA38A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D42984B-A3D2-453F-A894-108D19CA38A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D42984B-A3D2-453F-A894-108D19CA38A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED178118-B834-40A3-9D42-F54E63A2D886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED178118-B834-40A3-9D42-F54E63A2D886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED178118-B834-40A3-9D42-F54E63A2D886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED178118-B834-40A3-9D42-F54E63A2D886}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8307BFE-1667-46FC-B909-0D7CE4E32872}
+	EndGlobalSection
+EndGlobal
